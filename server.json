@@ -1,0 +1,52 @@
+{
+  "heroes": [{
+      "id": 1,
+      "name": "Batman",
+      "identity": "Bruce Wayne",
+      "group": "Justice League",
+      "publisher": "DC Comics"
+    },
+    {
+      "id": 2,
+      "name": "Superman",
+      "identity": "Clark Kent",
+      "group": "Justice League",
+      "publisher": "DC Comics"
+    },
+    {
+      "id": 3,
+      "name": "Iron Man",
+      "identity": "Tony Stark",
+      "group": "Avengers",
+      "publisher": "Marvel Comics"
+    },
+    {
+      "id": 4,
+      "name": "Captain America",
+      "identity": "Steve Rogers",
+      "group": "Avengers",
+      "publisher": "Marvel Comics"
+    },
+    {
+      "id": 5,
+      "name": "Hulk",
+      "identity": "Bruce Banner",
+      "group": "Avengers",
+      "publisher": "Marvel Comics"
+    },
+    {
+      "id": 6,
+      "name": "Harley Quinn",
+      "identity": "Harleen Quinzel",
+      "group": "Suicide Squad",
+      "publisher": "DC Comics"
+    },
+    {
+      "id": 7,
+      "name": "Flash",
+      "identity": "Barry Allen",
+      "group": "Justice League",
+      "publisher": "DC Comics"
+    }
+  ]
+}
